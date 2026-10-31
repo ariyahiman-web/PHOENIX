@@ -3,7 +3,7 @@ PHNX — Project Documentation
 
 Team Name: PHNX
 Team Members: 
-Fatima Habib Muzaffar
+Fatima Habib Muzaffar,
 Ariyah Iman
 
 1. Project Overview
